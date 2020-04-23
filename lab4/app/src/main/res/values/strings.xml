@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">__2</string>
+    <string name="appwidget_text">Days left: </string>
+    <string name="configure">Configure</string>
+    <string name="channel_name">Day</string>
+    <string name="channel_description">Now is a selected day</string>
+    <string name="ok">OK</string>
+</resources>
