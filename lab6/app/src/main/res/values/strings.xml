@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="toBack">To back-end</string>
+    <string name="toStore">To store-front</string>
+    <string name="name">Name: </string>
+    <string name="count">Count: </string>
+    <string name="price">Price: </string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="buy">Buy</string>
+
+    <string-array name="counts">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
