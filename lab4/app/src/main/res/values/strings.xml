@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">__2</string>
+    <string name="app_name">How many days left</string>
     <string name="appwidget_text">Days left: </string>
     <string name="configure">Configure</string>
     <string name="channel_name">Day</string>
