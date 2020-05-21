@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab8</string>
+    <string name="api_key">AIzaSyAS5lK77jYR9RXfXOBNNS0OWPHR7HL9qKA</string>
+    <string name="confirm">Confirm</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+</resources>
