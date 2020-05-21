@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="parametres">Config search</string>
+    <string name="confirm">Confirm</string>
+    <string name="load">Loading</string>
+    <string name="starred">Starred</string>
+    <string name="back">Back</string>
+    <string name="breed">Choose the breed</string>
+
+</resources>
